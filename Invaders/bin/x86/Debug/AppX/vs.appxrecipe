@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-3AMH0CV</Machine>
+    <WindowsUser>Cauek</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>1BCA1E32017C6D7DFF00795CFF293CA0267672643EB55A83711A478D750903F3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ba6d95be-eab8-45d9-91fa-a529d5a3a32f_1.0.0.0_x86__1nyj8m6pgt15r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ba6d95be-eab8-45d9-91fa-a529d5a3a32f_1nyj8m6pgt15r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ba6d95be-eab8-45d9-91fa-a529d5a3a32f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Cauek</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-11-26T20:53:42.520</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\Invaders.exe">
+      <PackagePath>Invaders.exe</PackagePath>
+      <Modified>2018-11-28T23:06:04.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\Invaders.pdb">
+      <PackagePath>Invaders.pdb</PackagePath>
+      <Modified>2018-11-28T23:06:04.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\block.png">
+      <PackagePath>Assets\block.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\bug1.png">
+      <PackagePath>Assets\bug1.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\bug2.png">
+      <PackagePath>Assets\bug2.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\bug3.png">
+      <PackagePath>Assets\bug3.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\bug4.png">
+      <PackagePath>Assets\bug4.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\flyingsaucer1.png">
+      <PackagePath>Assets\flyingsaucer1.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\flyingsaucer2.png">
+      <PackagePath>Assets\flyingsaucer2.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\flyingsaucer3.png">
+      <PackagePath>Assets\flyingsaucer3.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\flyingsaucer4.png">
+      <PackagePath>Assets\flyingsaucer4.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\player.png">
+      <PackagePath>Assets\player.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\satellite1.png">
+      <PackagePath>Assets\satellite1.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\satellite2.png">
+      <PackagePath>Assets\satellite2.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\satellite3.png">
+      <PackagePath>Assets\satellite3.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\satellite4.png">
+      <PackagePath>Assets\satellite4.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\spaceship1.png">
+      <PackagePath>Assets\spaceship1.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\spaceship2.png">
+      <PackagePath>Assets\spaceship2.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\spaceship3.png">
+      <PackagePath>Assets\spaceship3.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\spaceship4.png">
+      <PackagePath>Assets\spaceship4.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\star1.png">
+      <PackagePath>Assets\star1.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\star2.png">
+      <PackagePath>Assets\star2.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\star3.png">
+      <PackagePath>Assets\star3.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\star4.png">
+      <PackagePath>Assets\star4.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\watchit1.png">
+      <PackagePath>Assets\watchit1.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\watchit2.png">
+      <PackagePath>Assets\watchit2.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\watchit3.png">
+      <PackagePath>Assets\watchit3.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Assets\watchit4.png">
+      <PackagePath>Assets\watchit4.png</PackagePath>
+      <Modified>2018-11-17T15:42:16.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2018-11-21T20:25:23.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2018-11-25T16:57:41.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\View\InvadersPage.xaml">
+      <PackagePath>View\InvadersPage.xaml</PackagePath>
+      <Modified>2018-11-26T21:37:38.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\View\StarControl.xaml">
+      <PackagePath>View\StarControl.xaml</PackagePath>
+      <Modified>2018-11-25T16:57:41.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\View\AnimatedImage.xaml">
+      <PackagePath>View\AnimatedImage.xaml</PackagePath>
+      <Modified>2018-11-25T21:30:42.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Cauek\Documents\Visual Studio 2012\Projects\Invaders\Invaders\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2018-11-26T20:53:42.469</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

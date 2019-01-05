@@ -1,0 +1,16 @@
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\App.g.i.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\App.g.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\StarControl.g.i.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\StarControl.g.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\Invaders.g.i.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\Invaders.g.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\AnimatedImage.g.i.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\AnimatedImage.g.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\Common\StandardStyles.g.i.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\Common\StandardStyles.g.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\App.xaml
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\StarControl.xaml
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\AnimatedImage.xaml
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\Common\StandardStyles.xaml
+C:\Users\Cauek\documents\visual studio 2012\Projects\Invaders\Invaders\obj\x86\Release\View\Invaders.xaml
